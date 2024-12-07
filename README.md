@@ -3,8 +3,8 @@
 
 ## Linguagens
 
-- **HTML** 🏷️:
-- **CSS** 🎨:
-- **JavaScript** 📜:
+- **HTML** 🏷️
+- **CSS** 🎨
+- **JavaScript** 📜
 
 Livre uso desde que seja mantido o logo e nome da BoxCodes.
